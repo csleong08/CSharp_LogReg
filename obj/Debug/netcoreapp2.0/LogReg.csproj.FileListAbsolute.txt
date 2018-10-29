@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/bin/Debug/netcoreapp2.0/LogReg.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/bin/Debug/netcoreapp2.0/LogReg.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/bin/Debug/netcoreapp2.0/LogReg.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/bin/Debug/netcoreapp2.0/LogReg.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/bin/Debug/netcoreapp2.0/LogReg.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/obj/Debug/netcoreapp2.0/LogReg.csprojResolveAssemblyReference.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/obj/Debug/netcoreapp2.0/LogReg.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/obj/Debug/netcoreapp2.0/LogReg.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/obj/Debug/netcoreapp2.0/LogReg.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/obj/Debug/netcoreapp2.0/LogReg.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/LogReg/obj/Debug/netcoreapp2.0/LogReg.pdb
